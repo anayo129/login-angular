@@ -1,0 +1,41 @@
+.error-message {
+  color: red;
+}
+
+.form-control {
+  border-radius: 0;
+  border: 1px solid #ddd;
+  box-shadow: none;
+}
+
+.form-control:focus {
+  border-color: #333;
+  box-shadow: none;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+  background-color: #333;
+  color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.btn-primary {
+  background-color: #333;
+  border-color: #333;
+  color: #fff;
+  border-radius: 0;
+}
+
+.btn-primary:hover {
+  background-color: #444;
+  border-color: #444;
+}
